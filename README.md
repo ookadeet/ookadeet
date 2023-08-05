@@ -1,3 +1,13 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIzb211a21jMmh2ajJzNm43eWo1OXh5ejJldzh0aHR1b2dtYm92YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif)https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIzb211a21jMmh2ajJzNm43eWo1OXh5ejJldzh0aHR1b2dtYm92YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="150"/>
 </div>
+---
+
+### :writing_hand: About Me :
+- :telescope: I’m working as a Resource Planning Professional.
+
+- :seedling: I am a Data Science Apprentice.
+
+- :zap: In my free time I climb walls.
+
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hannah-reiss-6164b6253)
