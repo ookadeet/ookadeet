@@ -1,13 +1,31 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif" width="150"/>
-</div>
----
+Hi 👋 My name is Hannah Reiss
+=============================
 
-### :writing_hand: About Me :
-- :telescope: I’m working as a Resource Planning Professional.
+Data Science Apprentice
+-----------------------
 
-- :seedling: I am a Data Science Apprentice.
+I am Resource Planner and Data Science Apprentice. I have experience in SQL, Python, and R, and am exploring the world of Prompt Engineering.
 
-- :zap: In my free time I climb walls.
+* 🌍  I'm based in Sheffield, UK
+* :eyes:  See my portfolio at [GitHub (in progress)](http://https://ookadeet.github.io/portfolio/)
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hannah-reiss-6164b6253)
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ookadeet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hannah-reiss-6164b6253" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ookadeet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ookadeet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
