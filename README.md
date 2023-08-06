@@ -7,7 +7,7 @@ Data Science Apprentice
 I am Resource Planner and Data Science Apprentice. I have experience in SQL, Python, and R, and am exploring the world of Prompt Engineering.
 
 * 🌍  I'm based in Sheffield, UK
-* :eyes:  See my portfolio at [GitHub (in progress)](http://https://ookadeet.github.io/portfolio/)
+* :eyes:  See my portfolio at [GitHub (in progress)](https://https://ookadeet.github.io/portfolio/)
 
 ### Skills
 
